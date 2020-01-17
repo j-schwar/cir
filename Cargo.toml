@@ -1,5 +1,5 @@
 [package]
-name = "c-ast"
+name = "cir"
 version = "0.1.0"
 authors = ["Jeremy Schwartz <j.schwartz564@icloud.com>"]
 edition = "2018"
